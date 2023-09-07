@@ -1,0 +1,4 @@
+BMI CALCULATOR
+
+Software to measure adult body mass index or BMI
+Developed with HTML5, CSS3 and JavaScript
