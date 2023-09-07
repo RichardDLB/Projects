@@ -1,0 +1,34 @@
+.titulo1{
+    color: black;
+    background-color: #daefef;
+    border-radius: 15px;
+    text-align: center;   
+
+}
+
+.priBox{
+    background-color: #1cbaba;
+    border-radius: 15px;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.table{
+    display: flex;
+}
+
+.boxNumero{
+    width: 20%;
+}
+
+.titulo2{
+    color: black;
+    background-color: #daefef;
+    border-radius: 15px;
+    text-align: center;   
+
+}
+
+
+
